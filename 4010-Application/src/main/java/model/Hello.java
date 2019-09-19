@@ -2,6 +2,8 @@ package model;
 
 public class Hello {
 
+	String address;
+	String address1;
 	
 	
 	public static void main(String args[]){
